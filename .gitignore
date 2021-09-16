@@ -1,0 +1,29 @@
+# takip edilmesini istemdiğimiz dosya ve klasörleri belirtiyoruz
+
+# IDE (kullandığınız editörün versiyon kontrol sistemine eklenmesi gereksiz olan uzantıları )
+# VS CODE 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# resim
+*.jpg
+*.png
+*.jpeg
+resimler/
+
+# video
+*.mp4
+
+# paket yazılımlar (react bootstrap nodeJS vs )
+
+
+
+#loglar
+*.log
+
+# text dosyaları
+*.password.txt
